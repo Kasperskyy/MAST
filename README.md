@@ -12,7 +12,7 @@ The trees should be saved in the computer's memory in the form of general trees,
 
 Input\
 The value of n denotes the size of the set of n rooted trees.\
-n rooted trees in NEWICK format.\
+n rooted trees in NEWICK format.
 Output\
 n(n-1)/2 comparisons of input trees (each with each). The order of comparison: 1-2, 1-3, ..., 1-n, 2-3, 2-4, ..., 2-n, ..., (n-1) -n.\
 Przykład/Example\
@@ -29,4 +29,4 @@ Wyjście/Output\
 6\
 6\
 6\
-6\
+6
