@@ -1,5 +1,5 @@
 # MaximumAgreementSubtreeProblem
-A project done at University
+A small project done at University
 
 An Algorithm that runs in O(n^2), taking as an input X trees ins NEWICK format, storing them as general trees in the memory, and then outputting the minimum number of leaves that have to be removed from each pair of trees for them to be isomorphic.
 
