@@ -8,7 +8,7 @@ Copied Instructions:
 The exercise is to implement an algorithm that reads a set of n rooted trees in the NEWICK format, and then for each of n(n-1)/2 pairs of trees will calculate the minimum number of leaves whose removal from both trees will make them isomorphic. The problem is known in IT as Maximum agreement subtree problem . Here are two examples of trees, each containing 10 identical leaves labeled from 1 to 10:\
 (4,(8,1,(5,3)),(9,2,(10,(7,6))));\
 (10,(8,(9,(5,4)),(6,2,3)),(7,1));\
-The trees should be saved in the computer's memory in the form of general trees, using one pointer per son, one per brother and one per parent. \
+The trees should be saved in the computer's memory in the form of general trees, using one pointer per son, one per brother and one per parent.\
 
 Input\
 The value of n denotes the size of the set of n rooted trees.\
